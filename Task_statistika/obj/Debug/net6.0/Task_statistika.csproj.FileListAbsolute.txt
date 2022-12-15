@@ -1,0 +1,15 @@
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_statistika\obj\Debug\net6.0\Task_statistika.csproj.AssemblyReference.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_statistika\obj\Debug\net6.0\Task_statistika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_statistika\obj\Debug\net6.0\Task_statistika.AssemblyInfoInputs.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_statistika\obj\Debug\net6.0\Task_statistika.AssemblyInfo.cs
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_statistika\obj\Debug\net6.0\Task_statistika.csproj.CoreCompileInputs.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_statistika\bin\Debug\net6.0\Task_statistika.exe
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_statistika\bin\Debug\net6.0\Task_statistika.deps.json
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_statistika\bin\Debug\net6.0\Task_statistika.runtimeconfig.json
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_statistika\bin\Debug\net6.0\Task_statistika.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_statistika\bin\Debug\net6.0\Task_statistika.pdb
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_statistika\obj\Debug\net6.0\Task_statistika.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_statistika\obj\Debug\net6.0\refint\Task_statistika.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_statistika\obj\Debug\net6.0\Task_statistika.pdb
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_statistika\obj\Debug\net6.0\Task_statistika.genruntimeconfig.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_statistika\obj\Debug\net6.0\ref\Task_statistika.dll
