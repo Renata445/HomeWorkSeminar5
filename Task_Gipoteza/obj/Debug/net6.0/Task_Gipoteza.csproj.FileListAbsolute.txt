@@ -1,0 +1,15 @@
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_Gipoteza\obj\Debug\net6.0\Task_Gipoteza.csproj.AssemblyReference.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_Gipoteza\obj\Debug\net6.0\Task_Gipoteza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_Gipoteza\obj\Debug\net6.0\Task_Gipoteza.AssemblyInfoInputs.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_Gipoteza\obj\Debug\net6.0\Task_Gipoteza.AssemblyInfo.cs
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_Gipoteza\obj\Debug\net6.0\Task_Gipoteza.csproj.CoreCompileInputs.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_Gipoteza\bin\Debug\net6.0\Task_Gipoteza.exe
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_Gipoteza\bin\Debug\net6.0\Task_Gipoteza.deps.json
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_Gipoteza\bin\Debug\net6.0\Task_Gipoteza.runtimeconfig.json
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_Gipoteza\bin\Debug\net6.0\Task_Gipoteza.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_Gipoteza\bin\Debug\net6.0\Task_Gipoteza.pdb
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_Gipoteza\obj\Debug\net6.0\Task_Gipoteza.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_Gipoteza\obj\Debug\net6.0\refint\Task_Gipoteza.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_Gipoteza\obj\Debug\net6.0\Task_Gipoteza.pdb
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_Gipoteza\obj\Debug\net6.0\Task_Gipoteza.genruntimeconfig.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar5\Task_Gipoteza\obj\Debug\net6.0\ref\Task_Gipoteza.dll
